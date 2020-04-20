@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Wbzz"),c=n("Bl7J"),i=n("vrFN");t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(i.a,null),l.a.createElement("h1",null,"This is my personal website"),l.a.createElement("p",null,"Welcome to Frederick Kim's site."),l.a.createElement(r.Link,{to:"/page-2/"},"Go to page 2"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-51401bc338a0f3698dca.js.map
